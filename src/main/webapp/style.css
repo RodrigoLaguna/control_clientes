@@ -1,0 +1,13 @@
+footer{
+    position: inherit;
+    bottom: 0;
+    width:100%
+}
+
+@media (max-width: 600px) {
+    footer{
+        position: static;
+        bottom: 0;
+        width:100%
+    }
+}
